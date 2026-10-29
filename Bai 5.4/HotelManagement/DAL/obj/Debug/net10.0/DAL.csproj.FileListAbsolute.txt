@@ -1,0 +1,15 @@
+D:\Bai 5.4\HotelManagement\DAL\bin\Debug\net10.0\DAL.deps.json
+D:\Bai 5.4\HotelManagement\DAL\bin\Debug\net10.0\DAL.dll
+D:\Bai 5.4\HotelManagement\DAL\bin\Debug\net10.0\DAL.pdb
+D:\Bai 5.4\HotelManagement\DAL\bin\Debug\net10.0\DTO.dll
+D:\Bai 5.4\HotelManagement\DAL\bin\Debug\net10.0\DTO.pdb
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\DAL.csproj.AssemblyReference.cache
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\DAL.AssemblyInfoInputs.cache
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\DAL.AssemblyInfo.cs
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\DAL.csproj.CoreCompileInputs.cache
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\DAL.csproj.Up2Date
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\DAL.dll
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\refint\DAL.dll
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\DAL.pdb
+D:\Bai 5.4\HotelManagement\DAL\obj\Debug\net10.0\ref\DAL.dll

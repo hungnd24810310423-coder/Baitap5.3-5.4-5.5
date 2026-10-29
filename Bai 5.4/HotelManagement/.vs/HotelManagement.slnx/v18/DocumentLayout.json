@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai 5.4\\HotelManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D24E4470-16A6-45B3-BB84-19965C550C47}|GUI\\GUI.csproj|d:\\bai 5.4\\hotelmanagement\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24E4470-16A6-45B3-BB84-19965C550C47}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24E4470-16A6-45B3-BB84-19965C550C47}|GUI\\GUI.csproj|d:\\bai 5.4\\hotelmanagement\\gui\\frmquanlyphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D24E4470-16A6-45B3-BB84-19965C550C47}|GUI\\GUI.csproj|solutionrelative:gui\\frmquanlyphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923FC087-49E5-4B53-8DAC-24A434F5E868}|BUS\\BUS.csproj|d:\\bai 5.4\\hotelmanagement\\bus\\phongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923FC087-49E5-4B53-8DAC-24A434F5E868}|BUS\\BUS.csproj|solutionrelative:bus\\phongbus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5898D8FA-F781-4A55-AE0A-774DE816BC49}|DAL\\DAL.csproj|d:\\bai 5.4\\hotelmanagement\\dal\\phongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5898D8FA-F781-4A55-AE0A-774DE816BC49}|DAL\\DAL.csproj|solutionrelative:dal\\phongdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72FD17F-9A77-4DB1-B88A-7387BD59E7E5}|DTO\\DTO.csproj|d:\\bai 5.4\\hotelmanagement\\dto\\phongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72FD17F-9A77-4DB1-B88A-7387BD59E7E5}|DTO\\DTO.csproj|solutionrelative:dto\\phongdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5898D8FA-F781-4A55-AE0A-774DE816BC49}|DAL\\DAL.csproj|d:\\bai 5.4\\hotelmanagement\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5898D8FA-F781-4A55-AE0A-774DE816BC49}|DAL\\DAL.csproj|solutionrelative:dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5898D8FA-F781-4A55-AE0A-774DE816BC49}|DAL\\DAL.csproj|d:\\bai 5.4\\hotelmanagement\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5898D8FA-F781-4A55-AE0A-774DE816BC49}|DAL\\DAL.csproj|solutionrelative:dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{923FC087-49E5-4B53-8DAC-24A434F5E868}|BUS\\BUS.csproj|d:\\bai 5.4\\hotelmanagement\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{923FC087-49E5-4B53-8DAC-24A434F5E868}|BUS\\BUS.csproj|solutionrelative:bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5898D8FA-F781-4A55-AE0A-774DE816BC49}|DAL\\DAL.csproj|d:\\bai 5.4\\hotelmanagement\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5898D8FA-F781-4A55-AE0A-774DE816BC49}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72FD17F-9A77-4DB1-B88A-7387BD59E7E5}|DTO\\DTO.csproj|d:\\bai 5.4\\hotelmanagement\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E72FD17F-9A77-4DB1-B88A-7387BD59E7E5}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D24E4470-16A6-45B3-BB84-19965C550C47}|GUI\\GUI.csproj|d:\\bai 5.4\\hotelmanagement\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D24E4470-16A6-45B3-BB84-19965C550C47}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:02:33.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmQuanLyPhong.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\GUI\\FrmQuanLyPhong.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmQuanLyPhong.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\GUI\\FrmQuanLyPhong.cs",
+              "RelativeToolTip": "GUI\\FrmQuanLyPhong.cs",
+              "ViewState": "AgIAACQBAAAAAAAAAAAAAEoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:02:10.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhongBUS.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\BUS\\PhongBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\PhongBUS.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\BUS\\PhongBUS.cs",
+              "RelativeToolTip": "BUS\\PhongBUS.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAqwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:01:47.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhongDAL.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\DAL\\PhongDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PhongDAL.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\DAL\\PhongDAL.cs",
+              "RelativeToolTip": "DAL\\PhongDAL.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:01:10.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhongDTO.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\DTO\\PhongDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PhongDTO.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\DTO\\PhongDTO.cs",
+              "RelativeToolTip": "DTO\\PhongDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:59:40.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\DAL\\Database.cs",
+              "RelativeDocumentMoniker": "DAL\\Database.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\DAL\\Database.cs",
+              "RelativeToolTip": "DAL\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:58:57.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DAL",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\DAL\\DAL.csproj",
+              "RelativeDocumentMoniker": "DAL\\DAL.csproj",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\DAL\\DAL.csproj",
+              "RelativeToolTip": "DAL\\DAL.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-29T07:51:50.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\BUS\\Class1.cs",
+              "RelativeDocumentMoniker": "BUS\\Class1.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\BUS\\Class1.cs",
+              "RelativeToolTip": "BUS\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:51:39.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:51:29.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:51:16.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Bai 5.4\\HotelManagement\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\Bai 5.4\\HotelManagement\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T07:50:40.923Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

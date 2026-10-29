@@ -1,0 +1,274 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bai 5.5\\InventoryManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFBF15F-46F8-4984-B829-12E0E6DAC195}|GUI\\GUI.csproj|d:\\bai 5.5\\inventorymanagement\\gui\\frmvattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFBF15F-46F8-4984-B829-12E0E6DAC195}|GUI\\GUI.csproj|solutionrelative:gui\\frmvattu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EF4239-29E4-450C-9F7F-FE1F2A3F7100}|DAL\\DAL.csproj|d:\\bai 5.5\\inventorymanagement\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EF4239-29E4-450C-9F7F-FE1F2A3F7100}|DAL\\DAL.csproj|solutionrelative:dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFBF15F-46F8-4984-B829-12E0E6DAC195}|GUI\\GUI.csproj|d:\\bai 5.5\\inventorymanagement\\gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CFBF15F-46F8-4984-B829-12E0E6DAC195}|GUI\\GUI.csproj|solutionrelative:gui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD700360-82DD-4C08-A60D-9984FEB44F6C}|BUS\\BUS.csproj|d:\\bai 5.5\\inventorymanagement\\bus\\phieukhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD700360-82DD-4C08-A60D-9984FEB44F6C}|BUS\\BUS.csproj|solutionrelative:bus\\phieukhobus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EF4239-29E4-450C-9F7F-FE1F2A3F7100}|DAL\\DAL.csproj|d:\\bai 5.5\\inventorymanagement\\dal\\phieukhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EF4239-29E4-450C-9F7F-FE1F2A3F7100}|DAL\\DAL.csproj|solutionrelative:dal\\phieukhodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD700360-82DD-4C08-A60D-9984FEB44F6C}|BUS\\BUS.csproj|d:\\bai 5.5\\inventorymanagement\\bus\\vattubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD700360-82DD-4C08-A60D-9984FEB44F6C}|BUS\\BUS.csproj|solutionrelative:bus\\vattubus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EF4239-29E4-450C-9F7F-FE1F2A3F7100}|DAL\\DAL.csproj|d:\\bai 5.5\\inventorymanagement\\dal\\vattudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EF4239-29E4-450C-9F7F-FE1F2A3F7100}|DAL\\DAL.csproj|solutionrelative:dal\\vattudal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|d:\\bai 5.5\\inventorymanagement\\dto\\phieukhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|solutionrelative:dto\\phieukhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|d:\\bai 5.5\\inventorymanagement\\dto\\chitietphieukhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|solutionrelative:dto\\chitietphieukhodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|d:\\bai 5.5\\inventorymanagement\\dto\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|solutionrelative:dto\\nhacungcapdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|d:\\bai 5.5\\inventorymanagement\\dto\\vattudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|solutionrelative:dto\\vattudto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD700360-82DD-4C08-A60D-9984FEB44F6C}|BUS\\BUS.csproj|d:\\bai 5.5\\inventorymanagement\\bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD700360-82DD-4C08-A60D-9984FEB44F6C}|BUS\\BUS.csproj|solutionrelative:bus\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59EF4239-29E4-450C-9F7F-FE1F2A3F7100}|DAL\\DAL.csproj|d:\\bai 5.5\\inventorymanagement\\dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59EF4239-29E4-450C-9F7F-FE1F2A3F7100}|DAL\\DAL.csproj|solutionrelative:dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|d:\\bai 5.5\\inventorymanagement\\dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E99038FF-58DE-4C1D-A81D-55BC4594D1C2}|DTO\\DTO.csproj|solutionrelative:dto\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CFBF15F-46F8-4984-B829-12E0E6DAC195}|GUI\\GUI.csproj|d:\\bai 5.5\\inventorymanagement\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9CFBF15F-46F8-4984-B829-12E0E6DAC195}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmVatTu.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\GUI\\FrmVatTu.cs",
+              "RelativeDocumentMoniker": "GUI\\FrmVatTu.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\GUI\\FrmVatTu.cs",
+              "RelativeToolTip": "GUI\\FrmVatTu.cs",
+              "ViewState": "AgIAALABAAAAAAAAAAAAANYBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:17:52.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhieuKhoBUS.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\BUS\\PhieuKhoBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\PhieuKhoBUS.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\BUS\\PhieuKhoBUS.cs",
+              "RelativeToolTip": "BUS\\PhieuKhoBUS.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:15:31.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhieuKhoDAL.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DAL\\PhieuKhoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\PhieuKhoDAL.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DAL\\PhieuKhoDAL.cs",
+              "RelativeToolTip": "DAL\\PhieuKhoDAL.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:15:10.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VatTuBUS.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\BUS\\VatTuBUS.cs",
+              "RelativeDocumentMoniker": "BUS\\VatTuBUS.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\BUS\\VatTuBUS.cs",
+              "RelativeToolTip": "BUS\\VatTuBUS.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:14:31.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VatTuDAL.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DAL\\VatTuDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\VatTuDAL.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DAL\\VatTuDAL.cs",
+              "RelativeToolTip": "DAL\\VatTuDAL.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAAAN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:14:11.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhieuKhoDTO.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DTO\\PhieuKhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\PhieuKhoDTO.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DTO\\PhieuKhoDTO.cs",
+              "RelativeToolTip": "DTO\\PhieuKhoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:13:46.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChiTietPhieuKhoDTO.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DTO\\ChiTietPhieuKhoDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ChiTietPhieuKhoDTO.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DTO\\ChiTietPhieuKhoDTO.cs",
+              "RelativeToolTip": "DTO\\ChiTietPhieuKhoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:13:30.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NhaCungCapDTO.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DTO\\NhaCungCapDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\NhaCungCapDTO.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DTO\\NhaCungCapDTO.cs",
+              "RelativeToolTip": "DTO\\NhaCungCapDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:13:11.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VatTuDTO.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DTO\\VatTuDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\VatTuDTO.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DTO\\VatTuDTO.cs",
+              "RelativeToolTip": "DTO\\VatTuDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:12:55.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DAL\\Database.cs",
+              "RelativeDocumentMoniker": "DAL\\Database.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DAL\\Database.cs",
+              "RelativeToolTip": "DAL\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:11:56.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\GUI\\Program.cs",
+              "RelativeDocumentMoniker": "GUI\\Program.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\GUI\\Program.cs",
+              "RelativeToolTip": "GUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:18:17.096Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\BUS\\Class1.cs",
+              "RelativeDocumentMoniker": "BUS\\Class1.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\BUS\\Class1.cs",
+              "RelativeToolTip": "BUS\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:10:22.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "DAL\\Class1.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DAL\\Class1.cs",
+              "RelativeToolTip": "DAL\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:10:13.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\DTO\\Class1.cs",
+              "RelativeDocumentMoniker": "DTO\\Class1.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\DTO\\Class1.cs",
+              "RelativeToolTip": "DTO\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:10:02.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Bai 5.5\\InventoryManagement\\GUI\\Form1.cs",
+              "RelativeDocumentMoniker": "GUI\\Form1.cs",
+              "ToolTip": "D:\\Bai 5.5\\InventoryManagement\\GUI\\Form1.cs [Design]",
+              "RelativeToolTip": "GUI\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T08:09:47.176Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

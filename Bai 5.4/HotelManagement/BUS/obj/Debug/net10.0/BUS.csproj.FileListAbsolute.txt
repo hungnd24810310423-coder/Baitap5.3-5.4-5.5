@@ -1,0 +1,17 @@
+D:\Bai 5.4\HotelManagement\BUS\bin\Debug\net10.0\BUS.deps.json
+D:\Bai 5.4\HotelManagement\BUS\bin\Debug\net10.0\BUS.dll
+D:\Bai 5.4\HotelManagement\BUS\bin\Debug\net10.0\BUS.pdb
+D:\Bai 5.4\HotelManagement\BUS\bin\Debug\net10.0\DAL.dll
+D:\Bai 5.4\HotelManagement\BUS\bin\Debug\net10.0\DTO.dll
+D:\Bai 5.4\HotelManagement\BUS\bin\Debug\net10.0\DAL.pdb
+D:\Bai 5.4\HotelManagement\BUS\bin\Debug\net10.0\DTO.pdb
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\BUS.csproj.AssemblyReference.cache
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\BUS.AssemblyInfoInputs.cache
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\BUS.AssemblyInfo.cs
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\BUS.csproj.CoreCompileInputs.cache
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\BUS.csproj.Up2Date
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\BUS.dll
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\refint\BUS.dll
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\BUS.pdb
+D:\Bai 5.4\HotelManagement\BUS\obj\Debug\net10.0\ref\BUS.dll

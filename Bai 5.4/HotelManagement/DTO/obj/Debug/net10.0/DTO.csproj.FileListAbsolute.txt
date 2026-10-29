@@ -1,0 +1,12 @@
+D:\Bai 5.4\HotelManagement\DTO\bin\Debug\net10.0\DTO.deps.json
+D:\Bai 5.4\HotelManagement\DTO\bin\Debug\net10.0\DTO.dll
+D:\Bai 5.4\HotelManagement\DTO\bin\Debug\net10.0\DTO.pdb
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\DTO.AssemblyInfoInputs.cache
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\DTO.AssemblyInfo.cs
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\DTO.csproj.CoreCompileInputs.cache
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\DTO.dll
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\refint\DTO.dll
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\DTO.pdb
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\ref\DTO.dll
+D:\Bai 5.4\HotelManagement\DTO\obj\Debug\net10.0\DTO.csproj.Up2Date
